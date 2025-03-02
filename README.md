@@ -1,1 +1,1 @@
-# Korszer-sz-m-t-stechnikai-m-dszerek-a-fizik-ban-1
+Megoldásom az első hf-re.
